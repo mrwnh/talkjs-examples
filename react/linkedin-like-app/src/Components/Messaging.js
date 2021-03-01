@@ -27,7 +27,7 @@ class Messaging extends Component {
                 
                 if (!window.talkSession) {
                     window.talkSession = new Talk.Session({
-                        appId: "YOUR_APP_ID",
+                        appId: "tCYhgkR9",
                         me: me
                     });
                 }
